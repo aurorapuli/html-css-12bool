@@ -11,8 +11,22 @@
     background-color: blue;
     border: 2px solid white;
     min-height: 40px;
+    padding: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .space{
     margin-bottom: 30px;
+}
+
+.green{
+    background-color: green;
+    border: 2px solid blue;
+}
+
+.block{
+    display: block;
 }
